@@ -1,3 +1,9 @@
+# ForeverCC正在再一次汉化
+
+希望大家支持！
+
+# 原readme:
+
 Flexbox Froggy
 =======
 
