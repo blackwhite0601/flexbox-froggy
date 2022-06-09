@@ -1,4 +1,4 @@
-# ForeverCC正在再一次汉化
+# ForeverCC转载改编
 
 希望大家支持！
 
